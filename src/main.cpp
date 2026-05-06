@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-  cout << "Hello World!";
+  cout << "rawgrep v0.0.0";
   return 0;
 }
